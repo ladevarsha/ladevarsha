@@ -1,3 +1,4 @@
+![logo](https://github.com/ladevarsha/ladevarsha/blob/main/1674997113861.jpeg)
 <h1 align="center">Hi 👋, I'm Varsha Lade</h1>
 <h3 align="center">A passionate about Data Science from India</h3>
 
